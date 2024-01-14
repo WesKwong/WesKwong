@@ -1,4 +1,4 @@
-- 👋 Hi! I'm WesWei.
+- 👋 Hi! I'm WesKwong.
 - 👨‍💻 I'm a computer major student of USTC
 - ❤ About my **interest**
   - 🎧 Music
