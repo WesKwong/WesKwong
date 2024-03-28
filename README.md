@@ -1,5 +1,5 @@
 - 👋 Hi! I'm WesKwong.
-- 👨‍💻 I'm a computer major student of USTC
+- 👨‍💻 I'm a student of USTC major in computer science and technology.
 - ❤ About my **interest**
   - 🎧 Music
   - 🏃‍♂️ Sports
