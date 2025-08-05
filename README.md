@@ -1,8 +1,8 @@
 👋 Hi, I'm WesKwong
 
-👨‍💻 Undergraduate at USTC, majoring in CS
+👨‍💻 B.Eng. in Computer Science, USTC
 
-🏃‍➡️ An incoming PhD student in the joint program of USTC & Shanghai AI Lab, with a research focus on LLM, MLLM, and MLsys
+🏃‍➡️ A Ph.D. student in USTC, with a research focus on LLM, MLLM, and MLsys
 
 💡 Passionate about tinkering, especially with anything related to computers
 
