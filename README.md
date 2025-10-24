@@ -12,7 +12,7 @@
 
 🎮 A gaming novice, clueless about PvP games like FPS and MOBA, but enjoys playing 3A single-player games
 
-👀 See my [blog](http://blog.weskwong.tech/index.php/about.html) to learn more...
+👀 See my [blog](http://blog.weskwong.tech/index.php/about.html) to read more...
 <!---
 WesWeei/WesWeei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
